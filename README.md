@@ -1,8 +1,11 @@
 #  Data Scientist on readme
 
 ###  Education
-*Instituto Tecnológico Nacional de México*, Campus Hermosillo, Hermosillo, Son, MX.<br>
-*B.Eng.* Computer Science, expected June 2025
+**Instituto Tecnológico Nacional de México**, Campus Hermosillo, Hermosillo, Son, MX.<br>
+**B.Eng,** Computacional Systems, expected June 2025 <br>
+**Instituto Tecnológico Nacional de México**, Campus Hermosillo, Hermosillo, Son, MX. (2019-2021)<br>
+Completed 104 credits towards a **B.Eng.** in Aeronautical.
+
 ###  Projects
 Sonora Data Solutions
 [see my cv](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
@@ -12,4 +15,7 @@ Data scientist  @ Toyota Financial Services
 - big impact project 1
 - big impact project 2
 
+### Language
+- Spanish: Native.
+- English> Fluent.
 
