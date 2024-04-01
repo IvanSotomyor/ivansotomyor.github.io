@@ -9,8 +9,8 @@ ivansotomayor9@gmail.com<br>
 Completed 104 credits towards a B.Eng. in Aeronautical.
 
 ###  Projects
-Sonora Data Solutions
--- [see my cv](/assets/CV%20Carlos Sotomayor.pdf).
+Sonora Data Solutions<br>
+<!--- [see my cv](/assets/CV%20Carlos Sotomayor.pdf). -->
 
 ###  Work Experience
 Data scientist  @ Toyota Financial Services
