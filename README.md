@@ -5,11 +5,12 @@ ivansotomayor9@gmail.com<br>
 ###  Education
 **Instituto Tecnológico Nacional de México**, Campus Hermosillo, Hermosillo, Son, MX.<br>
 **B.Eng,** Computacional Systems, expected June 2025 <br><br>
-**Instituto Tecnológico Nacional de México**, Campus Hermosillo, Hermosillo, Son, MX. (2019-2021)<br><br>
-Completed 104 credits towards a B.Eng. in Aeronautical.
+**Instituto Tecnológico Nacional de México**, Campus Hermosillo, Hermosillo, Son, MX.<br>
+Completed 104 credits towards a B.Eng. in Aeronautical (2019-2021).
 
 ###  Projects
-Sonora Data Solutions<br>
+####  Sonora Data Solutions<br>
+Information about project
 <!--- [see my cv](/assets/CV%20Carlos Sotomayor.pdf). -->
 
 ###  Work Experience
