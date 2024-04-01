@@ -1,5 +1,5 @@
 title: Ivan Sotomayor
-#  logo: /assets/img/circular_portrait.png
+logo: /assets/img/circular_portrait2.png
 description: Data Scientist
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
