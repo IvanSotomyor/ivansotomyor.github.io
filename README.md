@@ -1,5 +1,5 @@
 #  Data Scientist
-[ivansotomayor9@gmail.com](mailto:ivansotomayor9@gmail.com)<br>
+ivansotomayor9@gmail.com<br>
 +52 662-288-4028<br>
 
 ###  Education
@@ -10,7 +10,7 @@ Completed 104 credits towards a B.Eng. in Aeronautical.
 
 ###  Projects
 Sonora Data Solutions
-[comment]: <>([see my cv](/assets/CV%20Carlos Sotomayor.pdf).)
+-- [see my cv](/assets/CV%20Carlos Sotomayor.pdf).
 
 ###  Work Experience
 Data scientist  @ Toyota Financial Services
