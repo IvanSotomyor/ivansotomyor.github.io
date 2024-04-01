@@ -1,5 +1,4 @@
 #  Data Scientist
-<img src="/assets/img/circular_portrait.png" alt="profile" width="200"/>
 ivansotomayor9@gmail.com<br>
 +52 662-288-4028<br>
 
