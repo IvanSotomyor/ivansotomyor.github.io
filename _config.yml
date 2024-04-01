@@ -1,6 +1,8 @@
 title: Ivan Sotomayor
 logo: /assets/img/circular_portrait.png
-description: ivansotomayor9@gmail.com
-description: +52 662-288-4028
+description: Online Portfolio
 show_downloads: true
 theme: jekyll-theme-minimal
+github:
+  zip_url: http://example.com/download.zip
+  another_url: https://www.google.com/
