@@ -1,10 +1,11 @@
 #  Data Scientist
+![](/assets/img/circular_portrait.png)
 ivansotomayor9@gmail.com<br>
 +52 662-288-4028<br>
 
 ###  Education
 **Instituto Tecnológico Nacional de México**, Campus Hermosillo, Hermosillo, Son, MX.<br>
-**B.Eng,** Computacional Systems, expected June 2025 <br><br>
+**B.Eng.** Computacional Systems, expected June 2025 <br><br>
 **Instituto Tecnológico Nacional de México**, Campus Hermosillo, Hermosillo, Son, MX.<br>
 Completed 104 credits towards a B.Eng. in Aeronautical (2019-2021).
 
