@@ -8,7 +8,7 @@ Completed 104 credits towards a B.Eng. in Aeronautical.
 
 ###  Projects
 Sonora Data Solutions
-[see my cv](/assets/CV Carlos Sotomayor.pdf){:download}.
+[see my cv](/assets/CV%20Carlos Sotomayor.pdf).
 
 ###  Work Experience
 Data scientist  @ Toyota Financial Services
@@ -19,7 +19,7 @@ Data scientist  @ Toyota Financial Services
 - Spanish: Native.
 - English> Fluent.
 
-###  Prophile
+###  Profile
 yes
 
 ###  Awards
