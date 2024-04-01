@@ -1,8 +1,8 @@
 title: Ivan Sotomayor
-logo: /assets/img/circular_portrait.png
+#  logo: /assets/img/circular_portrait.png
 #  description: Online Resume
 #  show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 # github:
 #   zip_url: http://example.com/download.zip
 #   another_url: https://www.google.com/
