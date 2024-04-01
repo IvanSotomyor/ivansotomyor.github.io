@@ -3,7 +3,7 @@
 ivansotomayor9@gmail.com<br>
 +52 662-288-4028<br>
 
-###Profile
+###  Profile
 Computer Science stutent specialized in data science.
 
 ###  Education
