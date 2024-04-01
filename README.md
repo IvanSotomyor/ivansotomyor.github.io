@@ -1,3 +1,4 @@
+{: .content}
 #  Data Scientist
 ivansotomayor9@gmail.com<br>
 +52 662-288-4028<br>
