@@ -1,10 +1,10 @@
 #  Data Scientist on readme
 
 ###  Education
-Computer Science Degree
-
+Instituto Tecnológico Nacional de México, Campus Hermosillo, Hermosillo, Son, MX.
+B.Eng, Computer Science, expected June 2025
 ###  Projects
-etc
+Sonora Data Solutions
 
 ###  Work Experience
 Data scientist  @ Toyota Financial Services
